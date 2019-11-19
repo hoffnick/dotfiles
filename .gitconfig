@@ -1,1 +1,3 @@
-/home/nickhoffman/.gitconfig
+[user]
+	email = hoffnick@umich.edu
+	name = Nicholas Hoffman
